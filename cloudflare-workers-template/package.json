@@ -1,5 +1,5 @@
 {
-  "name": "sparkling-field-2801",
+  "name": "solana-action-template",
   "scripts": {
     "dev": "wrangler dev",
     "deploy": "wrangler deploy --minify",

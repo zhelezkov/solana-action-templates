@@ -23,6 +23,7 @@ const connection = new Connection("https://api.mainnet-beta.solana.com");
 
 const app = new Hono();
 
+// see https://solana.com/docs/advanced/actions#options-response
 app.use(
   cors({
     origin: "*",

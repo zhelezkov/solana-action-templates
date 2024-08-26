@@ -5,7 +5,7 @@
 To create a new project using this template, run:
 
 ```sh
-$ npm create cloudflare@latest -- --template https://github.com/zhelezkov/solana-action-templates/cloudflare-workers-template
+npm create cloudflare@latest -- --template https://github.com/zhelezkov/solana-action-templates/cloudflare-workers-template
 ```
 
 ## Dev

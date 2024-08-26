@@ -6,12 +6,12 @@
     "cf-typegen": "wrangler types --env-interface CloudflareBindings"
   },
   "dependencies": {
-    "@solana/actions": "^1.6.1",
-    "@solana/web3.js": "^1.95.2",
-    "hono": "^4.5.4"
+    "@solana/actions": "^1.6.4",
+    "@solana/web3.js": "^1.95.3",
+    "hono": "^4.5.9"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20240729.0",
-    "wrangler": "^3.68.0"
+    "@cloudflare/workers-types": "^4.20240821.1",
+    "wrangler": "^3.72.2"
   }
 }

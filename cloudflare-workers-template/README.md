@@ -27,3 +27,12 @@ npm run deploy
 ```
 
 Read more: https://developers.cloudflare.com/workers/
+
+## Useful links
+
+- [Dialect docs](https://docs.dialect.to/documentation/actions)
+- [Solana Actions & Blinks specification](https://solana.com/docs/advanced/actions)
+- [Dialect examples](https://github.com/dialectlabs/actions)
+- [Solana repository](https://github.com/solana-developers/solana-actions)
+- [Dialect Blinks React client SDK](https://github.com/dialectlabs/blinks)
+- [Dialect Blinks React Native client SDK](https://github.com/dialectlabs/blinks-react-native)

@@ -49,6 +49,7 @@ app.post("/", async (c) => {
   const transaction = await prepareTransaction(new PublicKey(req.account));
 
   const response: ActionPostResponse = {
+    type: 'transaction',
     transaction: Buffer.from(transaction.serialize()).toString("base64"),
   };
 
